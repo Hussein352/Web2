@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name"viewport" content"with=device-width, initial-scale=1.0">
+    <title>Husseins Wbsida</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <!---  GOOGLE FONTS-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <section class="header">
+        <nav>
+            <a href="index.html"><img src="logo.png"></a>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="">START</a></li>
+                    <li><a href="">OM</a></li>
+                    <li><a href="">KONTAKT</a></li>
+                    <li><a href="">HUVUDSAK1</a></li>
+                </ul>
+            </div>
+        </nav>
 
-You can use the [editor on GitHub](https://github.com/Hussein352/Web2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <div>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hussein352/Web2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    </div>
+    </section>
+</body>
+</html>
